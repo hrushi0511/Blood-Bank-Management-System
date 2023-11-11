@@ -1,0 +1,24 @@
+body{
+    background-color: #161b22;
+}
+
+input::-webkit-outer-spin-button,
+      input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+      }
+
+.my-modal .modal-content {
+  background-color: #161b22;
+  color : white
+}
+
+.seeker-status-btn{
+  display: inline;
+  margin: 1% 1%;
+}
+
+
+::-webkit-scrollbar {
+  display: none;
+}
